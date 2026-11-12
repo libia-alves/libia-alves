@@ -7,12 +7,12 @@
   <a href="#cursos-e-aprendizado">Formação</a> &nbsp; · &nbsp;
   <a href="#minhas-frentes-de-estudo">Áreas de estudo</a> &nbsp; · &nbsp;
   <a href="#projetos-em-destaque">Projetos</a> &nbsp; · &nbsp;
-  <a href="#tecnologias-nos-meus-estudos">Tecnologias</a>
+  <a href="#tecnologias-e-ferramentas">Tecnologias</a>
 </p>
 
 ## Sobre mim
 
-Olá! Eu sou a **Libia**. 💜
+Olá, sou a **Libia**.
 
 Já concluí um **curso profissionalizante com Node.js, React e PostgreSQL** e um **curso de Python com duração de seis meses**. Atualmente, estou cursando **Inteligência Artificial**, ampliando meu aprendizado com agentes, automação e projetos práticos.
 
@@ -20,11 +20,10 @@ Meu GitHub reúne essa trajetória: exercícios, experimentos e projetos desenvo
 
 Gosto de acompanhar o caminho completo: organizar uma fonte de dados, construir uma aplicação, integrar ferramentas e conferir se o resultado faz sentido.
 
-- 🧠 **Foco atual:** agentes de IA, ferramentas, avaliações e automação.
-- 🐍 **Na prática:** Python, integração de dados e aplicações web.
-- 🔎 **Nos experimentos:** medir resultados, investigar falhas e documentar o aprendizado.
-- 🤝 **Em equipe:** projetos de IA generativa, atendimento e o PetSOS.
-- 💡 **Ideia própria:** o PetSOS nasceu de uma ideia minha; agora estou criando o PetSOS Web individualmente.
+- **Foco atual:** agentes de IA, ferramentas, avaliações e automação.
+- **Na prática:** Python, integração de dados e aplicações web.
+- **Nos experimentos:** medir resultados, investigar falhas e documentar o aprendizado.
+- **Projetos autorais:** idealizei o PetSOS, desenvolvido em equipe, e estou criando o PetSOS Web sozinha.
 
 ## Cursos e aprendizado
 
@@ -74,7 +73,7 @@ O **PetSOS nasceu de uma ideia minha** para contribuir com a proteção animal, 
 
 Agora estou criando **sozinha o [PetSOS Web](https://github.com/libia-alves/petsos_web)**, a versão web dessa iniciativa. É um projeto em desenvolvimento individual, no qual estou colocando em prática meus conhecimentos e ampliando a ideia original.
 
-## Tecnologias nos meus estudos
+## Tecnologias e ferramentas
 
 <p align="center">
   <img src="assets/tecnologias.svg" width="100%" alt="Python, LangChain, OpenAI, PostgreSQL, JavaScript, React, Node.js e Git" />
@@ -108,8 +107,13 @@ Procuro registrar nos projetos:
 - **As evidências:** testes e resultados quando fazem parte da atividade.
 - **Os limites:** o que ainda precisa ser corrigido, estudado ou validado.
 
+## Vamos conversar
+
+Para acompanhar minha trajetória e trocar ideias sobre tecnologia:
+
 <p align="center">
-  <a href="https://github.com/libia-alves?tab=repositories">Explorar todos os meus repositórios ↗</a>
+  <a href="https://www.linkedin.com/in/libia-canhete-alves"><strong>LinkedIn</strong></a> &nbsp; · &nbsp;
+  <a href="https://github.com/libia-alves?tab=repositories"><strong>Todos os projetos</strong></a>
 </p>
 
 <p align="center">

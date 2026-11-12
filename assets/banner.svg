@@ -1,29 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
 <title id="title">Libia Alves — Inteligência Artificial, Dados e Desenvolvimento</title>
-<desc id="desc">Banner roxo e lilás com circuitos e um monograma LA.</desc>
+<desc id="desc">Identidade em rosa antigo e carvão, com tipografia elegante, linhas delicadas e monograma LA.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#130E24"/><stop offset=".55" stop-color="#281545"/><stop offset="1" stop-color="#522B7E"/></linearGradient>
-<linearGradient id="accent"><stop stop-color="#B69BFF"/><stop offset="1" stop-color="#F1C4FA"/></linearGradient>
-<radialGradient id="light"><stop stop-color="#AD83FF" stop-opacity=".2"/><stop offset="1" stop-color="#AD83FF" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#CFB7FF" stroke-opacity=".065"/></pattern>
+<linearGradient id="bg" x2="1" y2=".45"><stop stop-color="#18161A"/><stop offset=".6" stop-color="#241D23"/><stop offset="1" stop-color="#3B2933"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#D59BAD" stop-opacity=".14"/><stop offset="1" stop-color="#D59BAD" stop-opacity="0"/></radialGradient>
+<linearGradient id="rose"><stop stop-color="#D4A2B2"/><stop offset="1" stop-color="#F2D7DF"/></linearGradient>
 </defs>
-<rect x="1" y="1" width="1198" height="358" rx="26" fill="url(#bg)" stroke="#72519F"/>
-<rect x="1" y="1" width="1198" height="358" rx="26" fill="url(#grid)"/>
-<circle cx="1000" cy="175" r="260" fill="url(#light)"/>
-<rect x="60" y="45" width="164" height="30" rx="15" fill="#AD83FF" fill-opacity=".12" stroke="#AC8ADD" stroke-opacity=".5"/>
-<circle cx="78" cy="60" r="4" fill="#D5BAFF"/>
-<text x="91" y="65" font-family="Arial,sans-serif" font-size="13" fill="#E4D7FF" letter-spacing="1.4">@LIBIA-ALVES</text>
-<text x="58" y="155" font-family="Arial,sans-serif" font-size="68" font-weight="700" fill="#FAF5FF">Libia Alves<tspan fill="#C9AAFF">.</tspan></text>
-<text x="61" y="201" font-family="Arial,sans-serif" font-size="23" fill="#DDCFF5">Inteligência Artificial · Dados · Desenvolvimento</text>
-<rect x="61" y="231" width="65" height="4" rx="2" fill="url(#accent)"/>
-<text x="61" y="282" font-family="Arial,sans-serif" font-size="18" fill="#BEAAD7">Aprendendo, criando e compartilhando o caminho.</text>
-<g fill="none" stroke="#B89AE8" stroke-opacity=".42" stroke-width="1.5">
-<circle cx="987" cy="177" r="100"/><circle cx="987" cy="177" r="128" stroke-dasharray="3 13"/>
-<path d="M791 103H842L886 147M1082 146L1125 103H1174M795 257H849L888 216M1082 216L1120 257H1162"/>
-<path d="M987 35V78M987 277V321"/>
+<rect x="1" y="1" width="1198" height="348" rx="16" fill="url(#bg)" stroke="#604551"/>
+<circle cx="1000" cy="180" r="235" fill="url(#glow)"/>
+<path d="M55 50H102" stroke="#DAB0BE" stroke-width="2"/>
+<text x="118" y="55" font-family="Arial,sans-serif" font-size="12" letter-spacing="3.5" fill="#DDACBB">CÓDIGO · IDEIAS · APRENDIZADO</text>
+<text x="51" y="158" font-family="Georgia,serif" font-size="83" font-weight="400" fill="#FBF2F3">Libia Alves<tspan fill="#DEAAB8">.</tspan></text>
+<text x="57" y="207" font-family="Arial,sans-serif" font-size="23" fill="#E5CED6">Inteligência Artificial · Dados · Desenvolvimento</text>
+<text x="57" y="271" font-family="Arial,sans-serif" font-size="17" fill="#BFAAB3">Da curiosidade à prática, um projeto de cada vez.</text>
+<text x="57" y="311" font-family="monospace" font-size="12" letter-spacing="2" fill="#D6A7B6">@LIBIA-ALVES</text>
+<g fill="none" stroke="#B9899C">
+<ellipse cx="1005" cy="176" rx="129" ry="104" stroke-opacity=".24" transform="rotate(-30 1005 176)"/>
+<ellipse cx="1005" cy="176" rx="129" ry="104" stroke-opacity=".24" transform="rotate(30 1005 176)"/>
+<circle cx="1005" cy="176" r="82" stroke="url(#rose)" stroke-opacity=".65"/>
+<path d="M1005 46v24M1005 282v24M875 176h24M1111 176h24" stroke-opacity=".4"/>
 </g>
-<circle cx="987" cy="177" r="72" fill="#201333" stroke="url(#accent)" stroke-width="2"/>
-<text x="987" y="194" text-anchor="middle" font-family="Arial,sans-serif" font-size="49" font-weight="700" fill="#E4D1FF">LA</text>
-<g fill="#D9C2FF"><circle cx="791" cy="103" r="5"/><circle cx="1174" cy="103" r="5"/><circle cx="795" cy="257" r="5"/><circle cx="1162" cy="257" r="5"/><circle cx="987" cy="49" r="5"/><circle cx="987" cy="305" r="5"/></g>
-<text x="775" y="184" font-family="monospace" font-size="31" fill="#C7A5F6" opacity=".65">&lt;/&gt;</text>
+<text x="1005" y="196" text-anchor="middle" font-family="Georgia,serif" font-size="59" fill="#EDCAD5">LA</text>
+<circle cx="1117" cy="113" r="3" fill="#EBC2CF"/><circle cx="893" cy="239" r="3" fill="#D6A7B6"/>
 </svg>

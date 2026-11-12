@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="138" viewBox="0 0 1200 138" role="img" aria-labelledby="title"><title id="title">Meu ciclo de estudo: aprender, construir, testar e evoluir</title><rect x="1" y="1" width="1198" height="136" rx="20" fill="#20162F" stroke="#63477F"/>
-<text x="30" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#E8D4FF">Aprender</text><text x="30" y="91" font-family="Arial,sans-serif" font-size="17" fill="#BDA8D4">conceitos e ferramentas</text>
-<path d="M268 54h24m-8-7 8 7-8 7" fill="none" stroke="#B58AEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="330" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#E8D4FF">Construir</text><text x="330" y="91" font-family="Arial,sans-serif" font-size="17" fill="#BDA8D4">projetos e experimentos</text>
-<path d="M568 54h24m-8-7 8 7-8 7" fill="none" stroke="#B58AEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="630" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#E8D4FF">Testar</text><text x="630" y="91" font-family="Arial,sans-serif" font-size="17" fill="#BDA8D4">resultados e limitações</text>
-<path d="M868 54h24m-8-7 8 7-8 7" fill="none" stroke="#B58AEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="930" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#E8D4FF">Evoluir</text><text x="930" y="91" font-family="Arial,sans-serif" font-size="17" fill="#BDA8D4">correções e próximos passos</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="138" viewBox="0 0 1200 138" role="img" aria-labelledby="title"><title id="title">Meu ciclo de estudo: aprender, construir, testar e evoluir</title><rect x="1" y="1" width="1198" height="136" rx="20" fill="#201B20" stroke="#514048"/>
+<text x="30" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#F1DDE3">Aprender</text><text x="30" y="91" font-family="Arial,sans-serif" font-size="17" fill="#C9B3BC">conceitos e ferramentas</text>
+<path d="M268 54h24m-8-7 8 7-8 7" fill="none" stroke="#DBABBA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="330" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#F1DDE3">Construir</text><text x="330" y="91" font-family="Arial,sans-serif" font-size="17" fill="#C9B3BC">projetos e experimentos</text>
+<path d="M568 54h24m-8-7 8 7-8 7" fill="none" stroke="#DBABBA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="630" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#F1DDE3">Testar</text><text x="630" y="91" font-family="Arial,sans-serif" font-size="17" fill="#C9B3BC">resultados e limitações</text>
+<path d="M868 54h24m-8-7 8 7-8 7" fill="none" stroke="#DBABBA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="930" y="54" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#F1DDE3">Evoluir</text><text x="930" y="91" font-family="Arial,sans-serif" font-size="17" fill="#C9B3BC">correções e próximos passos</text>
 </svg>
