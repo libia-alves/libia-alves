@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="#sobre-mim">Sobre mim</a> &nbsp; · &nbsp;
+  <a href="#cursos-e-aprendizado">Formação</a> &nbsp; · &nbsp;
   <a href="#minhas-frentes-de-estudo">Áreas de estudo</a> &nbsp; · &nbsp;
   <a href="#projetos-em-destaque">Projetos</a> &nbsp; · &nbsp;
   <a href="#tecnologias-nos-meus-estudos">Tecnologias</a>
@@ -13,7 +14,9 @@
 
 Olá! Eu sou a **Libia**. 💜
 
-Estou estudando **Inteligência Artificial, Python e dados**, conectando o aprendizado do curso a projetos práticos. Meu GitHub reúne exercícios, experimentos e projetos desenvolvidos individualmente e em equipe.
+Já concluí um **curso profissionalizante com Node.js, React e PostgreSQL** e um **curso de Python com duração de seis meses**. Atualmente, estou cursando **Inteligência Artificial**, ampliando meu aprendizado com agentes, automação e projetos práticos.
+
+Meu GitHub reúne essa trajetória: exercícios, experimentos e projetos desenvolvidos individualmente e em equipe.
 
 Gosto de acompanhar o caminho completo: organizar uma fonte de dados, construir uma aplicação, integrar ferramentas e conferir se o resultado faz sentido.
 
@@ -21,6 +24,16 @@ Gosto de acompanhar o caminho completo: organizar uma fonte de dados, construir 
 - 🐍 **Na prática:** Python, integração de dados e aplicações web.
 - 🔎 **Nos experimentos:** medir resultados, investigar falhas e documentar o aprendizado.
 - 🤝 **Em equipe:** projetos de IA generativa, atendimento e proteção animal.
+
+## Cursos e aprendizado
+
+| Formação | Conteúdo | Situação |
+| --- | --- | --- |
+| **Curso profissionalizante em desenvolvimento web** | Node.js, React e PostgreSQL | Concluído |
+| **Curso de Python — 6 meses** | Programação com Python | Concluído |
+| **Curso de Inteligência Artificial** | Estudos e projetos de IA, incluindo o módulo de agentes | Em andamento |
+
+Estou conectando minha base em desenvolvimento web e Python aos novos estudos de IA para construir aplicações, integrar ferramentas e avaliar seus resultados.
 
 ## Minhas frentes de estudo
 
