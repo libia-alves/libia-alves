@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Líbia Alves — Inteligência Artificial, Dados e Desenvolvimento" />
+  <img src="assets/banner.svg" width="100%" alt="Libia Alves — Inteligência Artificial, Dados e Desenvolvimento" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou a **Líbia**. 💜
+Olá! Eu sou a **Libia**. 💜
 
 Estou estudando **Inteligência Artificial, Python e dados**, conectando o aprendizado do curso a projetos práticos. Meu GitHub reúne exercícios, experimentos e projetos desenvolvidos individualmente e em equipe.
 
