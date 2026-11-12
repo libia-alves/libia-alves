@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Libia Alves — Inteligência Artificial, Dados e Desenvolvimento" />
+  <img src="assets/banner.svg" width="100%" alt="Libia Alves — Analista de Sistemas" />
 </p>
 
 <p align="center">
@@ -14,13 +14,16 @@
 
 Olá, sou a **Libia**.
 
+Meu foco é **análise de sistemas e desenvolvimento de aplicações**, conectando programação, integração de dados e soluções para problemas reais.
+
 Já concluí um **curso profissionalizante com Node.js, React e PostgreSQL** e um **curso de Python com duração de seis meses**. Atualmente, estou cursando **Inteligência Artificial**, ampliando meu aprendizado com agentes, automação e projetos práticos.
 
 Meu GitHub reúne essa trajetória: exercícios, experimentos e projetos desenvolvidos individualmente e em equipe.
 
 Gosto de acompanhar o caminho completo: organizar uma fonte de dados, construir uma aplicação, integrar ferramentas e conferir se o resultado faz sentido.
 
-- **Foco atual:** agentes de IA, ferramentas, avaliações e automação.
+- **Desenvolvimento:** aplicações web, integração de dados e automação.
+- **Estudos atuais:** Inteligência Artificial, agentes e avaliação de resultados.
 - **Na prática:** Python, integração de dados e aplicações web.
 - **Nos experimentos:** medir resultados, investigar falhas e documentar o aprendizado.
 - **Projetos autorais:** idealizei o PetSOS, desenvolvido em equipe, e estou criando o PetSOS Web sozinha.
