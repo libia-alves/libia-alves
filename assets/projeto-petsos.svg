@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="580" height="225" viewBox="0 0 580 225" role="img" aria-labelledby="title desc">
-<title id="title">PetSOS Web</title><desc id="desc">Projeto de extensão voltado à proteção e ao cuidado animal.</desc>
+<title id="title">PetSOS Web</title><desc id="desc">PetSOS Web em desenvolvimento individual por Libia, a partir de sua ideia original do PetSOS.</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1B132D"/><stop offset="1" stop-color="#2D1D44"/></linearGradient></defs>
 <rect x="1" y="1" width="578" height="223" rx="20" fill="url(#bg)" stroke="#684B89"/>
 <rect x="1" y="24" width="4" height="54" rx="2" fill="#C6A4FA"/>
 <text x="32" y="41" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#BA9DDF">PROJETO 04</text>
 <text x="32" y="83" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#F4EDFF">PetSOS Web</text>
-<text x="32" y="121" font-family="Arial,sans-serif" font-size="18" fill="#C7B8D9">Projeto de extensão voltado</text>
-<text x="32" y="146" font-family="Arial,sans-serif" font-size="18" fill="#C7B8D9">à proteção e ao cuidado animal.</text>
-<text x="32" y="193" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#CFB3FF">JAVASCRIPT  /  WEB</text>
+<text x="32" y="121" font-family="Arial,sans-serif" font-size="18" fill="#C7B8D9">Versão web em desenvolvimento</text>
+<text x="32" y="146" font-family="Arial,sans-serif" font-size="18" fill="#C7B8D9">individual, a partir da minha ideia.</text>
+<text x="32" y="193" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#CFB3FF">JAVASCRIPT  /  PROJETO INDIVIDUAL</text>
 <path d="M519 49L538 30M520 30H538V48" fill="none" stroke="#CBA6FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

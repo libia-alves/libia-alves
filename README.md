@@ -23,7 +23,8 @@ Gosto de acompanhar o caminho completo: organizar uma fonte de dados, construir 
 - 🧠 **Foco atual:** agentes de IA, ferramentas, avaliações e automação.
 - 🐍 **Na prática:** Python, integração de dados e aplicações web.
 - 🔎 **Nos experimentos:** medir resultados, investigar falhas e documentar o aprendizado.
-- 🤝 **Em equipe:** projetos de IA generativa, atendimento e proteção animal.
+- 🤝 **Em equipe:** projetos de IA generativa, atendimento e o PetSOS.
+- 💡 **Ideia própria:** o PetSOS nasceu de uma ideia minha; agora estou criando o PetSOS Web individualmente.
 
 ## Cursos e aprendizado
 
@@ -49,7 +50,7 @@ Estou conectando minha base em desenvolvimento web e Python aos novos estudos de
 </p>
 <p align="center">
   <a href="https://github.com/libia-alves/dados_python"><img src="assets/projeto-dados.svg" width="49%" alt="Python e Dados: ingestão de JSON e integração com PostgreSQL. Abrir projeto." /></a>
-  <a href="https://github.com/libia-alves/petsos_web"><img src="assets/projeto-petsos.svg" width="49%" alt="PetSOS Web: projeto de extensão voltado à proteção animal. Abrir projeto." /></a>
+  <a href="https://github.com/libia-alves/petsos_web"><img src="assets/projeto-petsos.svg" width="49%" alt="PetSOS Web: versão web que estou desenvolvendo sozinha, a partir da minha ideia do PetSOS. Abrir projeto." /></a>
 </p>
 <p align="center">
   <a href="https://github.com/libia-alves/apache-hop-etl-inmet-ibge"><img src="assets/projeto-etl.svg" width="49%" alt="Pipelines de dados: integração de INMET e IBGE com Apache Hop. Abrir projeto." /></a>
@@ -66,6 +67,12 @@ Estou conectando minha base em desenvolvimento web e Python aos novos estudos de
 - [Primeiros estudos em Python](https://github.com/libia-alves/python-1) — parte da minha trajetória com a linguagem.
 
 </details>
+
+## PetSOS: ideia e desenvolvimento
+
+O **PetSOS nasceu de uma ideia minha** para contribuir com a proteção animal, e o projeto foi desenvolvido **em equipe**.
+
+Agora estou criando **sozinha o [PetSOS Web](https://github.com/libia-alves/petsos_web)**, a versão web dessa iniciativa. É um projeto em desenvolvimento individual, no qual estou colocando em prática meus conhecimentos e ampliando a ideia original.
 
 ## Tecnologias nos meus estudos
 
